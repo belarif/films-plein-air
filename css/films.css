@@ -1,0 +1,70 @@
+.container {
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+
+.btn-primary, .page-item.active .page-link {
+    background-color: #D1BFA9 !important;
+    border-color: #D1BFA9 !important;
+}
+
+.btn-primary a:hover {
+    text-decoration: none;
+    color: #375FB0;
+
+}
+
+.btn-primary a {
+    color: #2B2528;
+
+}
+
+.page-link {
+    color: #2B2528!important;
+}
+
+img.image-film {
+    width: 100%;
+    height: auto;
+
+}
+
+@media all and (min-width: 1024px) {
+    img.image-film {
+        height: 600px;
+
+    }
+}
+
+.image-bloc {
+    position: relative;
+
+}
+
+.buttons {
+    position: absolute;
+    z-index: 1;
+    bottom: 16%;
+    width: 100%;
+    text-align: center;
+
+}
+
+@media all and (min-width: 321px) {
+    .buttonOne {
+        margin-right: 2px;
+    }
+
+    .buttonTwo {
+        margin-left: 2px;
+    }
+}
+
+@media all and (max-width: 320px){
+    .buttonOne {
+        margin-bottom: 5px;
+
+    }
+}
+

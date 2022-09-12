@@ -1,0 +1,31 @@
+.container {
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+
+h3 {
+    color: #D1BFA9;
+
+}
+
+.btn-primary {
+    background-color: #D1BFA9!important;
+    border-color: #D1BFA9!important;
+    color: #2B2528!important;
+}
+
+.btn-primary:hover {
+    color: #375FB0!important;
+
+}
+
+@media screen and (max-width: 576px)
+{
+
+    .contacts {
+        display: none;
+
+    }
+
+}

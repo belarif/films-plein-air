@@ -1,0 +1,47 @@
+footer {
+    background-color: #8c95b9;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+iframe {
+    width: 100%;
+    height: auto;
+}
+
+.contact {
+    text-align: center;
+    color: #2B2528 !important;
+}
+
+h4 {
+    color: #2B2528 !important;
+}
+
+a {
+    text-align: center;
+    color: #2B2528 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: #D1BFA9 !important;
+}
+
+.btn-secondary {
+    background-color: #D1BFA9 !important;
+    color: #2B2528 !important;
+}
+
+.btn-secondary:hover {
+    color: #375FB0 !important;
+}
+
+.row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+
+
+

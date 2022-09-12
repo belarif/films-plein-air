@@ -1,0 +1,44 @@
+.container {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+
+.bordered-content {
+    border: 1px solid #D1BFA9;
+}
+
+h3 {
+    color: #D1BFA9;
+}
+
+h5 {
+    color: #375FB0 !important;
+}
+
+.btn-primary, .page-item.active .page-link {
+    background-color: #D1BFA9 !important;
+    border-color: #D1BFA9 !important;
+    color: #2B2528!important;
+}
+
+.btn-primary:hover {
+    text-decoration: none;
+    color: #375FB0!important;
+}
+
+.page-link {
+    color: #2B2528!important;
+}
+
+img.image-news {
+    width: 100%;
+    height: auto;
+}
+
+@media only screen and (min-width : 768px){
+    .image-bloc {
+        width: 390px;
+        height: 280px;
+    }
+}
+
