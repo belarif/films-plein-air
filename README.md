@@ -23,5 +23,11 @@ After executing the command, the project will be copied to the 'www' directory
 
 ### 2. visualization of the model
 
-in your browser, enter the following URL address : http://localhost/films-plein-air/html/,
+in your browser, enter the following URL address : 
+
+                http://localhost/films-plein-air/html/
 then select in the "html" directory, the model you want to view
+
+### 3. visualization of Specifications
+
+                http://localhost/films-plein-air/PFILM_01_cahierdescharges.pdf
