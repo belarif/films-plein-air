@@ -4,7 +4,7 @@
 
 Click on the "code" button at the top, then on the HTTPS section which displays the following url :
 
-                https://github.com/belarif/films-plein-air.git 
+                https://github.com/belarif/films-plein-air.git
 
 copy this url to install the project locally.
 
@@ -23,10 +23,9 @@ After executing the command, the project will be copied to the 'www' directory
 
 ### 2. visualization of the model
 
-in your browser, enter the following URL address : 
+in your browser, enter the following URL address :
 
-                http://localhost/films-plein-air/html/
-then select in the "html" directory, the model you want to view
+                http://localhost/films-plein-air/
 
 ### 3. visualization of Specifications
 
