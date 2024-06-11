@@ -1,31 +1,24 @@
 .container {
-    margin-top: 90px;
-    margin-bottom: 90px;
-
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 h3 {
-    color: #D1BFA9;
-
+  color: #d1bfa9;
 }
 
 .btn-primary {
-    background-color: #D1BFA9!important;
-    border-color: #D1BFA9!important;
-    color: #2B2528!important;
+  background-color: #d1bfa9 !important;
+  border-color: #d1bfa9 !important;
+  color: #2b2528 !important;
 }
 
 .btn-primary:hover {
-    color: #375FB0!important;
-
+  color: #375fb0 !important;
 }
 
-@media screen and (max-width: 576px)
-{
-
-    .contacts {
-        display: none;
-
-    }
-
+@media screen and (max-width: 576px) {
+  .contacts {
+    display: none;
+  }
 }

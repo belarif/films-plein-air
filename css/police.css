@@ -1,13 +1,23 @@
 @font-face {
-    font-family: 'jetbrains_monoregular';
-    src: url('../jetbrains-mono/jetbrainsmono-regular-webfont.woff2') format('woff2'),
-    url('../jetbrains-mono/jetbrainsmono-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: "jetbrains_monoregular";
+  src: url("../jetbrains-mono/jetbrainsmono-regular-webfont.woff2")
+      format("woff2"),
+    url("../jetbrains-mono/jetbrainsmono-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
 
-p,h1 ,h2 ,h4 ,h5 ,h3 ,a,label ,button, select, option, input {
-    font-family: 'jetbrains_monoregular', serif, Arial;
-
+p,
+h1,
+h2,
+h4,
+h5,
+h3,
+a,
+label,
+button,
+select,
+option,
+input {
+  font-family: "jetbrains_monoregular", serif, Arial;
 }

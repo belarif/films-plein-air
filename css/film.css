@@ -1,60 +1,45 @@
 .container {
-    margin-top: 90px;
-    margin-bottom: 90px;
-
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
 img.image-film {
-    width: 100%;
-    height: auto;
-
+  width: 100%;
+  height: auto;
 }
 
 .container-image {
-    margin-bottom: 15px;
-
+  margin-bottom: 15px;
 }
 
-@media all and (min-width: 768px)
-{
-
-    img.image-film {
-        width: 500px;
-        height: 550px;
-
-    }
-
+@media all and (min-width: 768px) {
+  img.image-film {
+    width: 500px;
+    height: 550px;
+  }
 }
 
-@media all and (min-width: 1024px)
-{
-
-    img.image-film {
-        width: 500px;
-        height: 600px;
-
-    }
-
+@media all and (min-width: 1024px) {
+  img.image-film {
+    width: 500px;
+    height: 600px;
+  }
 }
 
 .btn-primary {
-    background-color: #D1BFA9 !important;
-    border-color: #D1BFA9 !important;
+  background-color: #d1bfa9 !important;
+  border-color: #d1bfa9 !important;
 }
 
 .btn-primary a:hover {
-    text-decoration: none;
-    color: #375FB0;
-
+  text-decoration: none;
+  color: #375fb0;
 }
 
 .btn-primary a {
-    color: #2B2528;
-
+  color: #2b2528;
 }
 
 h2 {
-    color: #D1BFA9;
-
+  color: #d1bfa9;
 }
-

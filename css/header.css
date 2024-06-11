@@ -1,24 +1,21 @@
 header {
-	background-color: #375FB0
+  background-color: #375fb0;
 }
 
 .navbar-light .navbar-nav .nav-link {
-	color: #2B2528 !important;
+  color: #2b2528 !important;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-	color: #D1BFA9 !important;
+  color: #d1bfa9 !important;
 }
 
 h2 {
-	color: #D1BFA9;
+  color: #d1bfa9;
 }
 
 @media all and (max-width: 425px) {
-
-	.buttonSearch {
-		display: none;
-
-	}
+  .buttonSearch {
+    display: none;
+  }
 }
-

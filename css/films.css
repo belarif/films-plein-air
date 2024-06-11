@@ -1,70 +1,62 @@
 .container {
-    margin-top: 90px;
-    margin-bottom: 90px;
-
+  margin-top: 90px;
+  margin-bottom: 90px;
 }
 
-.btn-primary, .page-item.active .page-link {
-    background-color: #D1BFA9 !important;
-    border-color: #D1BFA9 !important;
+.btn-primary,
+.page-item.active .page-link {
+  background-color: #d1bfa9 !important;
+  border-color: #d1bfa9 !important;
 }
 
 .btn-primary a:hover {
-    text-decoration: none;
-    color: #375FB0;
-
+  text-decoration: none;
+  color: #375fb0;
 }
 
 .btn-primary a {
-    color: #2B2528;
-
+  color: #2b2528;
 }
 
 .page-link {
-    color: #2B2528!important;
+  color: #2b2528 !important;
 }
 
 img.image-film {
-    width: 100%;
-    height: auto;
-
+  width: 100%;
+  height: auto;
 }
 
 @media all and (min-width: 1024px) {
-    img.image-film {
-        height: 600px;
-
-    }
+  img.image-film {
+    height: 600px;
+  }
 }
 
 .image-bloc {
-    position: relative;
-
+  position: relative;
 }
 
 .buttons {
-    position: absolute;
-    z-index: 1;
-    bottom: 16%;
-    width: 100%;
-    text-align: center;
-
+  position: absolute;
+  z-index: 1;
+  bottom: 16%;
+  width: 100%;
+  text-align: center;
 }
 
 @media all and (min-width: 321px) {
-    .buttonOne {
-        margin-right: 2px;
-    }
+  .buttonOne {
+    margin-right: 2px;
+  }
 
-    .buttonTwo {
-        margin-left: 2px;
-    }
+  .buttonTwo {
+    margin-left: 2px;
+  }
 }
 
-@media all and (max-width: 320px){
-    .buttonOne {
-        margin-bottom: 5px;
-
-    }
+@media all and (max-width: 320px) {
+  .buttonOne {
+    margin-bottom: 5px;
+  }
 }
-

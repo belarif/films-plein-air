@@ -1,47 +1,43 @@
 footer {
-    background-color: #8c95b9;
-    padding-bottom: 30px;
-    padding-top: 30px;
+  background-color: #8c95b9;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 iframe {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .contact {
-    text-align: center;
-    color: #2B2528 !important;
+  text-align: center;
+  color: #2b2528 !important;
 }
 
 h4 {
-    color: #2B2528 !important;
+  color: #2b2528 !important;
 }
 
 a {
-    text-align: center;
-    color: #2B2528 !important;
+  text-align: center;
+  color: #2b2528 !important;
 }
 
 a:hover {
-    text-decoration: none !important;
-    color: #D1BFA9 !important;
+  text-decoration: none !important;
+  color: #d1bfa9 !important;
 }
 
 .btn-secondary {
-    background-color: #D1BFA9 !important;
-    color: #2B2528 !important;
+  background-color: #d1bfa9 !important;
+  color: #2b2528 !important;
 }
 
 .btn-secondary:hover {
-    color: #375FB0 !important;
+  color: #375fb0 !important;
 }
 
 .row {
-    margin-right: 0 !important;
-    margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
 }
-
-
-
-
